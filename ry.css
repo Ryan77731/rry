@@ -1,5 +1,18 @@
 body{
     text-align: center;
-    background-color: currentColor blue darkgrey;
+    background: linear-gradient(120deg ,blue, red, darkgrey )
 }
 
+.bi{
+    font-size: 50px;
+}
+
+.bii{
+    font-size: 50px;
+}
+
+
+.ar{
+ border-image-width: auto;
+ font-size: 50px;
+}
